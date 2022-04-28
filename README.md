@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @samsonajulor.
-- 👀 I’m interested in frontend and mobile development.
-- 🌱 I’m currently learning javaScript language.
-- 💞️ I’m looking to collaborate on as many frontend tasks as required for me to improve my skill.
+- 👀 I’m interested in web development.
+- 🌱 I’m a Javascript/Typescript Engineer
+- 💞️ I’m looking to collaborate on as many tasks as required for me to improve my skill.
 - 📫 You can reach me on samsonajulor@gmail.com
