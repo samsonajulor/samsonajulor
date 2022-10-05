@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Backend Engineer | Linux Administrator | Web3 Enthusiast
 --------------------------------------------------------
 
-I just want to build something that would live longer than me.
+I just want to build something that would outlive me.
 
 * 🌍  I'm based in Nigeria
 * ✉️  You can contact me at [samsonajulor@gmail.com](mailto:samsonajulor@gmail.com)
