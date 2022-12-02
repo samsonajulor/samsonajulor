@@ -8,6 +8,8 @@ I just want to build something that would outlive me.
 
 * 🌍  I'm am not an alien. I was born on and reside somewhere on planet earth.
 * ✉️  You can contact me at [samsonajulor@gmail.com](mailto:samsonajulor@gmail.com)
+* 🧠 I am very good with Javascript and Typescript
+* 🧠 I really think python is a very cool programming language to have under ones belt
 * 🧠  I'm learning C and Blockchain Engineering
 * 🤝  I'm open to collaborating on backend and web3 projects
 
