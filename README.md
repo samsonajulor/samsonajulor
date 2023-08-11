@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Samson Ajulor
 =====================================================================================================================================
 
-Backend Engineer | Linux Administrator | Web3 Enthusiast
+Backend & DevOps Engineer | Smart Contract Developer
 --------------------------------------------------------
 
 I just want to build something that would outlive me.
